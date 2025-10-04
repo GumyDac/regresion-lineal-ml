@@ -4,3 +4,4 @@ print("asidjajida")
 print("quiero comer")
 print("no se que hago")
 # Dicktadura
+print("que ruben haga todo")
